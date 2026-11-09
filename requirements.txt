@@ -1,0 +1,4 @@
+pandas>=2.0
+pytest>=7.0
+# opciono: omogucava Parquet umesto CSV u silver sloju
+pyarrow>=14.0
